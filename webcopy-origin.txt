@@ -1,0 +1,40 @@
+Uri: https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lato&display=swap
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bungeeinline/v11/Gg8zN58UcgnlCweMrih332VuDGI.ttf
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\s\bungeeinline\v11\Gg8zN58UcgnlCweMrih332VuDGI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\s\lato\v23\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://zesty-crisp-5494b2.netlify.app/
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://zesty-crisp-5494b2.netlify.app/GETh.ico
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\GETh.ico.html
+Content Type: text/html
+
+Uri: https://zesty-crisp-5494b2.netlify.app/logo.png
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\logo.png.html
+Content Type: text/html
+
+Uri: https://zesty-crisp-5494b2.netlify.app/manifest.json
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\manifest.json
+Content Type: application/json
+
+Uri: https://zesty-crisp-5494b2.netlify.app/static/js/6.d737f3e3.chunk.js
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\static\js\6.d737f3e3.chunk.js
+Content Type: application/javascript
+
+Uri: https://zesty-crisp-5494b2.netlify.app/static/js/main.dab82a13.chunk.js
+File Name: C:\Downloaded Web Sites\zesty-crisp-5494b2.netlify.app\static\js\main.dab82a13.chunk.js
+Content Type: application/javascript
+
